@@ -106,7 +106,21 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     h1 {
         font-size: 25px;
     }
-    
+    .move {
+        padding-right: 0.1rem;
+     
+    }
+    .date2 {
+        font-size: 14px;
+        padding-left: 3rem;
+        text-align: center;
+    }
+    h4 {
+        font-size:18px;
+    }
+    p {
+        font-size:16px ;
+    }
 }
 @media screen and (max-width:580px) {
     .img{
@@ -116,11 +130,23 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     h1 {
         font-size: 18px;
     }
+    h4 {
+        font-size:16px;
+    }
+    p {
+        font-size:14px ;
+    }
 
 }
 @media screen and (max-width:380px) {
     h1 {
         font-size: 12px;
+    }
+    h4 {
+        font-size:14px;
+    }
+    p {
+        font-size:13px ;
     }
 
 }
